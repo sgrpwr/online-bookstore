@@ -31,3 +31,5 @@ build/
 .vscode/
 
 /onlinebookstore/target/
+
+/angular-bookstore/node_modules/
